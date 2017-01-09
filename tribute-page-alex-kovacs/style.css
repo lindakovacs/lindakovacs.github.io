@@ -22,31 +22,6 @@ color: #fff
 .navbar-purple .navbar-brand:hover, .navbar-purple .navbar-brand:focus {
 color: #ccc
 }
-/* Change nav links color */
-.navbar-purple .navbar-nav > li > a {
-color: #e7e7e7
-}
-.navbar-purple .navbar-nav > li > a:hover {
-color: #fff
-}
-/* change visited color */
-.navbar-purple .navbar-nav > li > a:focus {
-color: #fff
-}
-/* form */
-.navbar-purple .form-control {
-border-radius: 4;
-border: none
-}
-.navbar-purple .form-control {
-border: 1px solid #4c3272
-}
-.navbar-purple .btn {
-border: 1px solid #4c3272
-}
-/* open drop down background color */
-.navbar-purple .navbar-nav .open .dropdown-menu {
-background: #fff
 }
 /* mobile toggle nav icon */
 .navbar-purple .navbar-toggle {

@@ -18,3 +18,14 @@ $(document).ready(function(){
         $('#back-to-top').tooltip('show');
 
 });
+
+//new WOW().init();
+
+wow = new WOW(
+{
+boxClass:     'wow',
+animateClass: 'animated',
+offset:       100
+}
+);
+wow.init();

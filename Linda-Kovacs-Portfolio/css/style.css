@@ -112,20 +112,13 @@ border: none;
     background-color: 3861EC;
     border: 0;
     letter-spacing: 1px;
-    opacity:0.9; 
-    
+    opacity:0.9;    
 }
 
-
-
-.container { font-family: 'Raleway', sans-serif;
-	
+.container { font-family: 'Raleway', sans-serif;	
 }
 
-
-
-#allfont { font-family: 'Raleway', sans-serif;
-	
+#allfont { font-family: 'Raleway', sans-serif;	
 }
 
 #footer { font-family: 'Raleway', sans-serif;
@@ -135,15 +128,13 @@ border: none;
 			
 }
 
-.navbar {
-	
+.navbar {	
     margin-bottom: 0px; border-radius: 0px;
     background-color: #3861EC;
     border: 0;
     font-size: 14px !important;
     letter-spacing: 3px;
     color: #000;
-
 }
 
 
@@ -165,8 +156,6 @@ border: none;
   } 
 
 
-
-
 @media (max-width: 600px) {
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
@@ -177,41 +166,33 @@ border: none;
 .logo-small {  
 		font-size: 33px; 
 		color: black; 
-	
-
-
 }
 
 .offer {
 			margin-top: -15px;
 			margin-bottom: 30px;
 
-
 }
 
 .offertext {
 	margin-bottom: 20px
-
 
 }
 
 .blogt {
 				margin-bottom: 15px; 
 				margin-top: -25px;
-
-
 }
 
 a.read-more {
-	    background: #3861EC; 
-			color:white;	
-			border: 1px solid #3861EC;
-			font-size: 15px; 
-			padding: 10px 16px; 
-			margin-top: 20px;  
-			letter-spacing: 5px;
-			font-weight: 500; 
-
+	background: #3861EC; 
+	color:white;	
+	border: 1px solid #3861EC;
+	font-size: 15px; 
+	padding: 10px 16px; 
+	margin-top: 20px;  
+	letter-spacing: 5px;
+	font-weight: 500; 
 }
 
 a.read-more:hover 
@@ -222,22 +203,16 @@ border: 1px solid #3b5998;
 background: none; 
 text-decoration: none; 
 
-
-
 }
 
 
 .soclogo {
 
-	
 		text-align: center; 
 		margin-right: -58px;
 		margin-left: 460px;
-		
-
 	
 }
-
 
 
 .introduction {
@@ -248,10 +223,6 @@ text-decoration: none;
 		margin-top: -790px;
 		margin-right: -58px;
 		margin-left: 460px;
-		
-
-		
-	
 
 }
 
@@ -261,9 +232,6 @@ text-decoration: none;
 		text-align: center; 
 		margin-right: -58px;
 		margin-left: 460px;
-		
-
-
 
 }
 

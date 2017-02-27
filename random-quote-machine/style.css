@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+* {
+    margin: 0px;
+    padding: 2px;
+}
+
+.container{
+  text-align:center;
+}
+
+h1{
+  font-size: 40px;
+  font-family: 'Great Vibes', cursive;
+  color: #4d2700;
+  display:block;
+  text-align: center;
+  width: 80%;
+  margin: 0px auto;
+  padding: 10px 0;
+  }
+header a, a:visited {
+    text-decoration:none;
+    color:#fcfcfc;
+}
+
+.a {
+    text-decoration:none;
+}
+
+.btn-blue {
+	background-color: #3861EC;
+	color: #fff;
+	border: none;
+	text-decoration:none;
+}
+
+
+body {
+    background: url('img/bg.jpg') no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+.quotes {
+	font-family: 'Alex Brush', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px auto;
+    position: relative;
+    width: 40%;
+}
+
+.author {
+	font-family: 'Alex Brush', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 50px auto;
+    position: relative;
+    width: 40%;
+}

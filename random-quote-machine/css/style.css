@@ -12,18 +12,21 @@
 h1{
   font-size: 40px;
   font-family: 'Great Vibes', cursive;
-  color: #4d2700;
+  color: #ffffff;
   display:block;
   text-align: center;
   width: 80%;
   margin: 0px auto;
-  padding: 10px 0;
+  padding: 30px 0;
   }
-header a, a:visited {
+a, a:visited {
     text-decoration:none;
     color:#fcfcfc;
 }
-
+p{
+  font-weight: bold;
+  color: #ffffff;
+}
 .a {
     text-decoration:none;
 }
@@ -37,7 +40,7 @@ header a, a:visited {
 
 
 body {
-    background: url('http://www.nyantler-outdoors.com/images/aged-parchment.jpg') no-repeat center center fixed;
+      background: url('http://www.nyantler-outdoors.com/images/aged-parchment.jpg') no-repeat center center fixed;  
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -46,16 +49,16 @@ body {
 
 .quotes {
 	font-family: 'Alex Brush', cursive;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
-    margin: 50px auto;
+    margin: 30px auto;
     position: relative;
     width: 40%;
 }
 
 .author {
 	font-family: 'Alex Brush', cursive;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     margin: 50px auto; 
     width: 40%;
